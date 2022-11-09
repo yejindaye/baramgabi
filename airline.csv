@@ -1,0 +1,16 @@
+﻿flight,airline,depart,arrive,capacity
+23,Delta,ATL,DTW,160
+24,Delta,DTW,ATL,160
+27,Delta,DTW,BOS,160
+28,Delta,BOS,DTW,160
+35,Delta,DTW,PIT,128
+36,Delta,PIT,DTW,128
+37,Delta,ATL,BOS,160
+38,Delta,BOS,ATL,160
+43,Delta,ATL,PIT,160
+44,Delta,PIT,ATL,160
+46,Delta,BOS,PIT,160
+46,Delta,PIT,BOS,160
+101,Southwest,DTW,BOS,136
+102,Southwest,BOS,DTW,136
+103,Southwest,DTW,PIT,136
